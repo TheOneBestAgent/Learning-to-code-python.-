@@ -6,14 +6,14 @@ Welcome to my Python learning repository! This collection of programs represents
 
 This repository contains 5 Python programs that build progressively from basic syntax to advanced concepts:
 
-- **Day 1-4**: Building fundamental programming skills
-- **Day 5**: Integrating all concepts in a real interactive application
+- **Day 1**: Introduction to basic syntax and user interaction
+- **Day 2**: Completing all foundational concepts and integration in a comprehensive mini-project
 
 ---
 
 ## 📚 Programs Overview
 
-### 🎯 **01_hello_world_input.py** - Basic Syntax & User Interaction
+### 🎯 **01_hello_world_input.py** - Basic Syntax & User Interaction (Day 1)
 **Key Concepts Learned:**
 - `print()` statements and output formatting
 - `input()` function for user interaction
@@ -25,7 +25,7 @@ A welcoming program that greets users and collects basic information, demonstrat
 
 ---
 
-### 🐕 **02_dog_health_checker.py** - Variables & Conditionals
+### 🐕 **02_dog_health_checker.py** - Variables & Conditionals (Day 2)
 **Key Concepts Learned:**
 - Multiple variable types: `str`, `int`, `bool`
 - Conditional logic with `if`/`elif`/`else`
@@ -38,7 +38,7 @@ Analyzes a dog's condition based on weight, hunger, and tiredness levels, provid
 
 ---
 
-### 😊 **03_mood_based_responses.py** - Multiple Conditionals
+### 😊 **03_mood_based_responses.py** - Multiple Conditionals (Day 2)
 **Key Concepts Learned:**
 - Multiple separate `if` statements
 - String comparison operations
@@ -50,7 +50,7 @@ An emotional support program that responds differently to user feelings (good, s
 
 ---
 
-### 🍋 **04_lemonade_stand_calculator.py** - Arithmetic & Variables
+### 🍋 **04_lemonade_stand_calculator.py** - Arithmetic & Variables (Day 2)
 **Key Concepts Learned:**
 - Mathematical operations: multiplication, subtraction
 - Variable computation and reuse
@@ -62,7 +62,7 @@ A business calculator that determines profitability for a lemonade stand, showin
 
 ---
 
-### 🤖 **05_smart_dog_assistant.py** - **MINI PROJECT**
+### 🤖 **05_smart_dog_assistant.py** - **MINI PROJECT** (Day 2)
 **Key Concepts Learned:**
 - **Integration of all previous concepts**
 - Advanced user input validation
